@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+*.filters
+*.user
+*.vcxproj
+*.sln
+*.vs
+*.vsidx
+*.csproj
+
+# Misc
+.idea/
+x64/
+obj/
+bin/
+#*.json
+#*.xml
+#*.recipe
+#*.tlog
+
+
+
+
+
